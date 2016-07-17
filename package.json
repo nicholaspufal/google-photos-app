@@ -9,6 +9,10 @@
     "application",
     "app"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/nicholaspufal/google-photos-app.git"
+  },
   "author": "Nicholas Pufal",
   "license": "MIT",
   "devDependencies": {
